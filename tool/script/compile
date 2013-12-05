@@ -1,0 +1,4 @@
+#!/bin/sh
+
+mkdir -p /app/bin
+go build -o /app/bin/tool
